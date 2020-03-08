@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Masterchef</string>
+
+    <string name="bottom_menu_home_label">Home</string>
+    <string name="bottom_menu_preferences_label">Preferences</string>
+
+    <string name="home_fragment_label">Welcome to MasterChef</string>
+    <string name="preferences_fragment_label">Set your preferences!</string>
+
+    <string name="search_button_label">SEARCH</string>
+    <string name="back_button_label">BACK</string>
+    <string name="preferences_button_label">SET PREFERENCE</string>
+
+    <string name="prefer_spinner_label">Meal preference (breakfast, lunch, dinner)</string>
+    <string name="order_spinner_label">Order by time it takes to prepare food</string>
+
+
+    <string name="scroll_title">(scrollable if exceed page)</string>
+    <string name="preparation_time_title">Preparation Time</string>
+    <string name="time_default">Preparation time default.</string>
+    <string name="desc_title">Description</string>
+    <string name="ingredients_title">Ingredients</string>
+    <string name="steps_title">Steps</string>
+    <string name="name_default">Name default.</string>
+    <string name="desc_default">Description default.</string>
+    <string name="ingredients_default">Ingredients default.</string>
+    <string name="steps_default">Steps default.</string>
+
+    <string-array name="spinner_options_prefer">
+        <item>No preference</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string-array name="spinner_options_order">
+        <item>Order by default</item>
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+</resources>
